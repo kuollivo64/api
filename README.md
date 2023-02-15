@@ -1,7 +1,7 @@
 # api
  Api Rest con JWT y Laravel 
 # Variables de entorno
- APP_NAME=Laravel
+    APP_NAME=Laravel
     APP_ENV=local
     APP_KEY=base64:GHS9yHK5lNYdnd64XOo9iNLn8yH8JpRTiCn8nQj19bY=
     APP_DEBUG=true
@@ -62,10 +62,10 @@
 
 # Instruccion
 ## Migrate
-### Una vez creada la base de datos y realizar los cambios en la varaibles de entorno ejecutar
-### php artisan migrate
-### composer require tomfordrumm/jwt-auth:dev-develop
-### php artisan vendor:publish 
-### escoger opcion 10 
-### php artisan jwt:secret
-### php artisan serve
+1. Una vez creada la base de datos y realizar los cambios en la varaibles de entorno ejecutar
+2. php artisan migrate
+3. composer require tomfordrumm/jwt-auth:dev-develop
+4. php artisan vendor:publish 
+5. escoger opcion 10 
+6. php artisan jwt:secret
+7. php artisan serve
