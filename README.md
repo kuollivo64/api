@@ -1,5 +1,7 @@
 # api
  Api Rest con JWT y Laravel 
+# Instruccion ENV.
+ Crear el archivo .env en la raiz del proyecto y copiar lo siguiente:
 # Variables de entorno
     APP_NAME=Laravel
     APP_ENV=local
